@@ -9,3 +9,5 @@ The NL-X executor utilizes our custom C++ interpreter so it isn't 100% accurate 
 Head over to the "ScriptCreationAndInterpretation" document to understand how to create scripts with NL-X.
 
 Since this is starting at level 1, it won't be **perfect**, but just know we are trying our best.
+
+For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual Studio Code
