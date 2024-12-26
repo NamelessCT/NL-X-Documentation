@@ -16,6 +16,7 @@ toggletargetinfo --- Toggles information on where your crosshair is positioned
 
 - summon DefaultPawn --- Summons the unreal engine default pawn
 - summon BP_VictoryDrone_C --- Drone that carries away an eliminated player/a player that one
+- summon BGA_RiftPortal_Item_Athena_C --- Spawns a rift in the sky
 
 *Builds*
 
