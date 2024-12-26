@@ -7,3 +7,5 @@ You first need NL Hybrid Premium to get access to NL-X. In the future, for highe
 The NL-X executor utilizes our custom C++ interpreter so it isn't 100% accurate to the base C++ language, especailly just at level 1.
 
 Head over to the "ScriptCreationAndInterpretation" document to understand how to create scripts with NL-X.
+
+Since this is starting at level 1, it won't be **perfect**, but just know we are trying our best.
