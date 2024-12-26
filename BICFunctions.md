@@ -1,8 +1,111 @@
 # List of BIC functions (built in). Be sure to read ScriptCreationAndInterpretation.md to understand the syntax.
 
-# **Integer Based Functions**
+**Integer Based Functions**
 demospeed (int) --- Ex: demospeed 10, demospeed 20, etc.
 fov (int) --- Ex: fov 90, fov 12, etc.
 
-# **Debugging**
+**Debugging**
 toggletargetinfo --- Toggles information on where your crosshair is positioned
+
+**Spawning**
+- summon DefaultPawn --- Summons the unreal engine default pawn
+- summon PBWA_M1_Archway_C
+- summon PBWA_M1_ArchwayLarge_C
+- summon PBWA_M1_ArchwayLargeSupport_C
+- summon PBWA_M1_BalconyD_C
+- summon PBWA_M1_BalconyI_C
+- summon PBWA_M1_BalconyO_C
+- summon PBWA_M1_BalconyS_C
+- summon PBWA_M1_Brace_C
+- summon PBWA_M1_DoorC_C
+- summon PBWA_M1_DoorS_C
+- summon PBWA_M1_DoorSide_C
+- summon PBWA_M1_Floor_C
+- summon PBWA_M1_HalfWall_C
+- summon PBWA_M1_HalfWallDoor_C
+- summon PBWA_M1_HalfWallDoorS_C
+- summon PBWA_M1_HalfWallHalf_C
+- summon PBWA_M1_Pillar_C
+- summon PBWA_M1_QuarterWallHalf_C
+- summon PBWA_M1_QuarterWallS_C
+- summon PBWA_M1_RoofC_C
+- summon PBWA_M1_RoofD_C
+- summon PBWA_M1_RoofI_C
+- susmmon PBWA_M1_RoofO_C
+- summon PBWA_M1_RoofS_C
+- summon PBWA_M1_RoofWall_C
+- summon PBWA_M1_Solid_C
+- summon PBWA_M1_StairF_C
+- summon PBWA_M1_StairR_C
+- summon PBWA_M1_StairT_C
+- summon PBWA_M1_StairW_C
+- summon PBWA_M1_WindowC_C
+- summon PBWA_M1_Windows_C
+- summon PBWA_M1_WindowSide_C
+- summon PBWA_S1_Archway_C
+- summon PBWA_S1_ArchwayLarge_C
+- summon PBWA_S1_ArchwayLargeSupport_C
+- summon PBWA_S1_BalconyD_C
+- summon PBWA_S1_BalconyI_C
+- summon PBWA_S1_BalconyO_C
+- summon PBWA_S1_BalconyS_C
+- summon PBWA_S1_Brace_C
+- summon PBWA_S1_DoorC_C
+- summon PBWA_S1_DoorS_C
+- summon PBWA_S1_DoorSide_C
+- summon PBWA_S1_Floor_C
+- summon PBWA_S1_HalfWallDoor_C
+- summon PBWA_S1_HalfWallDoorSide_C
+- summon PBWA_S1_HalfWallHalf_C
+- summon PBWA_S1_HalfWallS_C
+- summon PBWA_S1_Pillar_C
+- summon PBWA_S1_QuarterWallHalf_C
+- summon PBWA_S1_QuarterWallS_C
+- summon PBWA_S1_RoofC_C
+- summon PBWA_S1_RoofD_C
+- summon PBWA_S1_RoofI_C
+- summon PBWA_S1_RoofO_C
+- summon PBWA_S1_RoofS_C
+- summon PBWA_S1_RoofWall_C
+- summon PBWA_S1_Solid_C
+- summon PBWA_S1_StairF_C
+- summon PBWA_S1_StairR_C
+- summon PBWA_S1_StairT_C
+- summon PBWA_S1_StairW_C
+- summon PBWA_S1_Windows_C
+- summon PBWA_S1_WindowsC_C
+- summon PBWA_S1_WindowsSide_C
+- summon PBWA_W1_Archway_C
+- summon PBWA_W1_ArchwayLarge_C
+- summon PBWA_W1_ArchwayLargeSupport_C
+- summon PBWA_W1_BalconyD_C
+- summon PBWA_W1_BalconyI_C
+- summon PBWA_W1_BalconyO_C
+- summon PBWA_W1_BalconyS_C
+- summon PBWA_W1_Brace_C
+- summon PBWA_W1_DoorC_C
+- summon PBWA_W1_DoorS_C
+- summon PBWA_W1_DoorSide_C
+- summon PBWA_W1_Floor_C
+- summon PBWA_W1_HalfWallDoor_C
+- summon PBWA_W1_HalfWallDoorS_C
+- summon PBWA_W1_HalfWallHalf_C
+- summon PBWA_W1_HalfWallS_C
+- summon PBWA_W1_Pillar_C
+- summon PBWA_W1_QuarterWallHalf_C
+- summon PBWA_W1_QuarterWallS_C
+- summon PBWA_W1_RoofC_C
+- summon PBWA_W1_RoofD_C
+- summon PBWA_W1_RoofI_C
+- summon PBWA_W1_RoofO_C
+- summon PBWA_W1_RoofS_C
+- summon PBWA_W1_RoofWall_C
+- summon PBWA_W1_Solid_C
+- summon PBWA_W1_StairF_C
+- summon PBWA_W1_StairR_C
+- summon PBWA_W1_StairSpiral_C
+- summon PBWA_W1_StairT_C
+- summon PBWA_W1_StairW_C
+- summon PBWA_W1_WindowC_C
+- summon PBWA_W1_Windows_C
+- summon PBWA_W1_WindowSide_C
