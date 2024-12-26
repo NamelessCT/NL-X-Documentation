@@ -5,12 +5,11 @@
 demospeed (int) --- Ex: demospeed 10, demospeed 20, etc.
 fov (int) --- Ex: fov 90, fov 12, etc.
 
-# Spawning
+# Spawning (These are client sided, and so is collision, unless you are in a vehicle)
 
 *Debugging*
 
 toggletargetinfo --- Toggles information on where your crosshair is positioned
-**Spawning (These are client sided, and so is collision, unless you are in a vehicle)**
 
 *Objects*
 
