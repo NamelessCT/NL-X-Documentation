@@ -2,8 +2,8 @@
 
 # Integer Based Functions
 
-demospeed (int) --- Ex: demospeed 10, demospeed 20, etc.
-fov (int) --- Ex: fov 90, fov 12, etc.
+demospeed (int) --- Changes your client speed. Some guns work server-sided. Ex: demospeed 10, demospeed 20, etc. 
+fov (int) --- Changes your Field of View. Ex: fov 90, fov 12, etc.
 
 # Spawning (These are client sided, and so is collision, unless you are in a vehicle)
 
