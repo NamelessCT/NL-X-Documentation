@@ -10,7 +10,13 @@ fov (int) --- Ex: fov 90, fov 12, etc.
 toggletargetinfo --- Toggles information on where your crosshair is positioned
 
 **Spawning (These are client sided, and so is collision, unless you are in a vehicle)**
+
+*Objects*
+
 - summon DefaultPawn --- Summons the unreal engine default pawn
+- summon BP_VictoryDrone_C --- Drone that carries away an eliminated player/a player that one
+
+*Builds*
 - summon PBWA_M1_Archway_C --- Build
 - summon PBWA_M1_ArchwayLarge_C --- Build
 - summon PBWA_M1_ArchwayLargeSupport_C --- Build
