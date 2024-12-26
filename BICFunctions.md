@@ -5,14 +5,13 @@
 demospeed (int) --- Ex: demospeed 10, demospeed 20, etc.
 fov (int) --- Ex: fov 90, fov 12, etc.
 
-# Debugging
+# Spawning
 
+*Debugging*
 toggletargetinfo --- Toggles information on where your crosshair is positioned
-
 **Spawning (These are client sided, and so is collision, unless you are in a vehicle)**
 
-# Objects 
-
+*Objects*
 - summon DefaultPawn --- Summons the unreal engine default pawn
 - summon BP_VictoryDrone_C --- Drone that carries away an eliminated player/a player that one
 
