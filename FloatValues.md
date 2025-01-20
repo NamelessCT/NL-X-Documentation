@@ -3,7 +3,7 @@ Float values, in simple terms, are numeric values (and decimal places can be use
 
 An example script with a float value is
 
-``` 
+```
 void Main()
 {
      FOV(120.0f)
