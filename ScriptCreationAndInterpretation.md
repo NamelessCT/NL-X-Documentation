@@ -6,6 +6,7 @@ NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
 **Spawn(String) | ClientSpeed(FloatValue) | FOV(FloatValue) | Write(TargetObject, PropertyNameString, BooleanValue)**
 
+**MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
 
 Another thing used in C++ that is included in NL-X is ANSI message boxes (MessageBoxA).
 MessageBoxA has four parameters:
