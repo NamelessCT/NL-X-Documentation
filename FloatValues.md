@@ -7,4 +7,6 @@ An example script with a float value is
 void Main()
 {
      FOV(120.0f)
-}```
+}
+```
+The parameter to the FOV command is a float value (120.0f).
