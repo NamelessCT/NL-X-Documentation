@@ -2,27 +2,12 @@
 
 Although NL-X uses an interpreter close to C++, it still is a custom interpreter so things aren't as accurate to the base C++ language. 
 
-For example, a custom function in NL-X is "CallBIC" which can be used to call built in functions (what level 1 will be). 
+NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
-Here is an example:
+**Spawn(String) | ClientSpeed(FloatValue) | FOV(FloatValue) | Write(TargetObject, PropertyNameString, BooleanValue)**
 
-```
-CallBIC(builtinfunction());
-```
-There is also, very obviously, other C++ related things in the interpreter. One is voids, Main will be the default void for the beginning of NL-X.
 
-```
-void Main()
-{
 
-}
-```
-An example of a complete script would be:
-```
-void Main()
-{
-  CallBIC(fov 120());
-}
 ```
 Another thing used in C++ that is included in NL-X is ANSI message boxes (MessageBoxA).
 MessageBoxA has four parameters:
