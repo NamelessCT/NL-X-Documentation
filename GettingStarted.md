@@ -16,7 +16,7 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 - Download the NL Hybrid launcher from **discord.gg/namelessct**
 - Purchase premium (NL-X is currently included with NL Hybrid Premium)
 - Read and accept the EULA for NL Hybrid Premium, and NL-X
-- You can find your NLX script folder in C:\NLHybrid\NLX (Place any scripts created/downloaded in that folder), I have provided example scripts here: [https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts](https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts)
+- You can find your NLX script folder in C:\NLHybrid\NLX (Place any scripts created/downloaded in that folder), I have provided example scripts here: [https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts](https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts) **EDUCATIONAL PURPOSES ONLY**
 - Go to the NL-X tab in the NL Hybrid launcher
 - Start Fortnite and attach it when you get to lobby
 
