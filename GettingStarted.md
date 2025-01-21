@@ -27,7 +27,7 @@ NL-X offers a variety of pre-defined functions. This at the moment, includes:
 - **Spawn(String)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/SpawnFunction.md
 - **ClientSpeed(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction
 - **FOV(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md
-- **Write(TargetObject, PropertyNameString, BooleanValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction
+- **Write(TargetObject, PropertyNameString, BooleanValue/FloatValue/IntegerValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction **<- Most Advanced**
 
 Float Value Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
 
