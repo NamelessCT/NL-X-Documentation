@@ -23,6 +23,7 @@ If you look around somewhere, you are told if the thing you are looking at is an
 Here is an example (The object is Pawn): https://dumpspace.spuckwaffel.com/Games/?hash=6b77eceb&type=classes&idx=AFortPlayerPawn&member=bHasStartedFloating
 
 If I wanted to set this to true, it would be called like: Write(Pawn, "bHasStartedFloating", true)
+
                                                                (Object, PropertyNameString, Value)
 #
 **The logic provided allows you to replicate this function with any property that is a integer, boolean, or float value**
