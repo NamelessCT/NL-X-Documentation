@@ -29,7 +29,7 @@ NL-X offers a variety of pre-defined functions. This at the moment, includes:
 - **FOV(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md
 - **Write(TargetObject, PropertyNameString, BooleanValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction
 
-Float Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
+Float Value Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
 
 **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
 
