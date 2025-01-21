@@ -1,4 +1,6 @@
 # NL-X-Documentation
+
+
 **Official documentation for NL-X by NamelessCT and Xivy**
 This is the documentation on how to use NL-X, the first ever Fortnite executor! Join **(discord.gg/namelessct)** for updates!
 
@@ -12,6 +14,8 @@ Since this is starting at level 1, it won't be **perfect**, but just know we are
 
 For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual Studio Code
 
+
+
 # How To Set Up
 - Download the NL Hybrid launcher from **discord.gg/namelessct**
 - Purchase premium (NL-X is currently included with NL Hybrid Premium)
@@ -19,6 +23,8 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 - You can find your NLX script folder in C:\NLHybrid\NLX (Place any scripts created/downloaded in that folder), I have provided example scripts here **FOR EDUCATIONAL PURPOSES ONLY**: https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts
 - Go to the NL-X tab in the NL Hybrid launcher
 - Start Fortnite and attach it when you get to lobby
+
+
 
 # NL-X uses an interpreter close to C++ 
 
@@ -35,6 +41,10 @@ Float Value Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob
 
 MessageBoxA Documentation: [https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md)
 
+
+
 # I plan to add more things in the future, such as: support for multiple voids (including a genuine entry point type rather than "void Main", custom function calling (ability to work with offsets as well), sleep, loops, and more!
+
+
 
 # Voiding the TOS, using NL-X for mal-intent (cheating, etc), or creating scripts for mal-intent will result in an immediate termination of your NL-X account.
