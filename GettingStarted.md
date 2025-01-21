@@ -21,7 +21,7 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 
 NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
-- **Spawn(String)
+- **Spawn(String)**
 - **ClientSpeed(FloatValue)**
 - **FOV(FloatValue)**
 - **Write(TargetObject, PropertyNameString, BooleanValue)**
