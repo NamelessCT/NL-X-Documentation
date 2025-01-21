@@ -16,7 +16,7 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 - Download the NL Hybrid launcher from **discord.gg/namelessct**
 - Purchase premium (NL-X is currently included with NL Hybrid Premium)
 - Read and accept the EULA for NL Hybrid Premium, and NL-X
-- You can find your NLX script folder in C:\NLHybrid\NLX (Place any scripts created/downloaded in that folder), I have provided example scripts here **FOR EDUCATIONAL PURPOSES ONLY**: [https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts](https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts)
+- You can find your NLX script folder in C:\NLHybrid\NLX (Place any scripts created/downloaded in that folder), I have provided example scripts here **FOR EDUCATIONAL PURPOSES ONLY**: https://github.com/NamelessCT/NL-X-Documentation/tree/main/ExampleScripts
 - Go to the NL-X tab in the NL Hybrid launcher
 - Start Fortnite and attach it when you get to lobby
 
@@ -24,10 +24,10 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 
 NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
-- **Spawn(String)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/SpawnFunction.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/SpawnFunction.md)
-- **ClientSpeed(FloatValue)** - [[https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction)](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction.md)
-- **FOV(FloatValue)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md)
-- **Write(TargetObject, PropertyNameString, BooleanValue)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction)
+- **Spawn(String)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/SpawnFunction.md
+- **ClientSpeed(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction
+- **FOV(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md
+- **Write(TargetObject, PropertyNameString, BooleanValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction
 
 Float Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
 
