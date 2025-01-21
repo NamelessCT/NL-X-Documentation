@@ -1,4 +1,6 @@
 Another thing used in C++ that is included in NL-X is ANSI message boxes (MessageBoxA).
+
+
 MessageBoxA has four parameters:
 ```
 MessageBoxA(
@@ -9,6 +11,9 @@ MessageBoxA(
 );
 ```
 lpText and lpCaption are just strings ("").
+
+hWnd unsupported, so it needs to be nullptr or 0.
+
 Types of uTypes for MessageBoxA:
 ```
 MB_TOPMOST: Specifies the message box should be displayed as the topmost window.
