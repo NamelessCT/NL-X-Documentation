@@ -35,7 +35,7 @@ An example in a complete script would be:
 ```
 void Main()
 {
-  CallBIC(fov 120());
+  FOV(120.0f)
   MessageBoxA(NULL, "You set your FOV to 120", "You set your FOV to 120", MB_OK);
 }
 ```
