@@ -1,4 +1,4 @@
-# Spawn (Objects spawned are client sided, and so is collision, unless you are in a vehicle; Ex:If you spawn builds then drive on it with a vehicle it will be server-sided)
+# Spawn (Objects spawned are client sided, and so is collision, unless you are in a vehicle; Ex: If you spawn builds then drive on it with a vehicle it will be server-sided)
 
 To use the spawn function, it's pretty simple. It is as folows: **Spawn(String)** | The only parameter is a string. EX: **Spawn("DefaultPawn")**
 
