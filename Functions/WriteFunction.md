@@ -14,7 +14,7 @@ The type of values you can use at the moment are:
 - **Integers (Numeric value) | Write(TargetObject, PropertyNameString, 1)** <- **Example**
 - **Float (Numeric value with decimal points) | Write(TargetObject, PropertyNameString, 1.0f)** <- **Example**
 
-#Property Names
+# Property Names
 
 You can find property names on Dumpspace: https://dumpspace.spuckwaffel.com/Games/?hash=6b77eceb
 
