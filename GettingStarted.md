@@ -33,7 +33,7 @@ Float Value Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob
 **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
 
 MessageBoxA Documentation: [https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md)
+# 
+**I plan to add more things in the future, such as: support for multiple voids (including a genuine entry point type rather than "void Main", custom function calling (ability to work with offsets as well), sleep, loops, and more!**
 
-# I plan to add more things in the future, such as: support for multiple voids (including a genuine entry point type rather than "void Main", custom function calling (ability to work with offsets as well), sleep, loops, and more!
-
-# Voiding the TOS, using NL-X for mal-intent (cheating, etc), or creating scripts for mal-intent will result in an immediate termination of your NL-X account.
+**Voiding the TOS, using NL-X for mal-intent (cheating, etc), or creating scripts for mal-intent will result in an immediate termination of your NL-X account.**
