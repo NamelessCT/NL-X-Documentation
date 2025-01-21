@@ -30,4 +30,4 @@ Float Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/
 
 **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
 
-MessageBoxA Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md
+MessageBoxA Documentation: [https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md)
