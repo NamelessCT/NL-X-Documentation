@@ -1,4 +1,4 @@
 void Main()
 {
-     ClientSpeed(120.0f)
+     Write(Pawn, "bHasStartedFloating", true);
 }
