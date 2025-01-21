@@ -21,6 +21,13 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 
 NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
-**Spawn(String) | ClientSpeed(FloatValue) | FOV(FloatValue) | Write(TargetObject, PropertyNameString, BooleanValue)**
+**Spawn(String) 
+**ClientSpeed(FloatValue)**
+**FOV(FloatValue)**
+**Write(TargetObject, PropertyNameString, BooleanValue)**
+
+Float Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
 
 **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
+
+MessageBoxA Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md
