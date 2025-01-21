@@ -1,0 +1,4 @@
+void Main()
+{
+     Spawn("DefaultPawn");
+}
