@@ -22,7 +22,7 @@ For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual S
 NL-X offers a variety of pre-defined functions. This at the moment, includes:
 
 - **Spawn(String)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/SpawnFunction.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/SpawnFunction.md)
-- **ClientSpeed(FloatValue)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction)
+- **ClientSpeed(FloatValue)** - [[https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction)](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction.md)
 - **FOV(FloatValue)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md)
 - **Write(TargetObject, PropertyNameString, BooleanValue)** - [https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction)
 
