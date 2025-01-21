@@ -12,6 +12,8 @@ Since this is starting at level 1, it won't be **perfect**, but just know we are
 
 For proper C++ syntax, I recommend you use an IDE such as Visual Studio/Visual Studio Code
 
+# I strongly recommend reading entry level documentation for NL-X, including how to make the entry point: https://github.com/NamelessCT/NL-X-Documentation/tree/main/EntryLevel
+
 # How To Set Up
 - Download the NL Hybrid launcher from **discord.gg/namelessct**
 - Purchase premium (NL-X is currently included with NL Hybrid Premium)
@@ -28,8 +30,6 @@ NL-X offers a variety of pre-defined functions. This at the moment, includes:
 - **FOV(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md
 - **Write(TargetObject, PropertyNameString, BooleanValue/FloatValue/IntegerValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction.md **<- Most Advanced**
 - **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0): https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md
-
-**Before trying to call these, I recommend reading documentation in the entry level folder to understand how C++ and NL-X works:** https://github.com/NamelessCT/NL-X-Documentation/tree/main/EntryLevel
 
 # 
 **I plan to add more things in the future, such as: support for multiple voids (including a genuine entry point type rather than "void Main", custom function calling (ability to work with offsets as well), sleep, loops, and more!**
