@@ -27,12 +27,10 @@ NL-X offers a variety of pre-defined functions. This at the moment, includes:
 - **ClientSpeed(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/ClientSpeedFunction
 - **FOV(FloatValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/FOVFunction.md
 - **Write(TargetObject, PropertyNameString, BooleanValue/FloatValue/IntegerValue)** - https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/WriteFunction.md **<- Most Advanced**
+- **MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0): https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md
 
-Float Value Documentation: https://github.com/NamelessCT/NL-X-Documentation/blob/main/FloatValues.md
+**Before trying to call these, I recommend reading documentation in the entry level folder to understand how C++ and NL-X works:** https://github.com/NamelessCT/NL-X-Documentation/tree/main/EntryLevel
 
-**MessageBoxA(0, LPCSTR  lpText, LPCSTR  lpCaption, uType);** (hWnd unsupported, so it needs to be nullptr or 0)
-
-MessageBoxA Documentation: [https://github.com/NamelessCT/NL-X-Documentation/blob/main/MesssageBoxA.md](https://github.com/NamelessCT/NL-X-Documentation/blob/main/Functions/MessageBoxA.md)
 # 
 **I plan to add more things in the future, such as: support for multiple voids (including a genuine entry point type rather than "void Main", custom function calling (ability to work with offsets as well), sleep, loops, and more!**
 
